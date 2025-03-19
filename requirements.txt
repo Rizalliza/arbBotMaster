@@ -1,0 +1,10 @@
+certifi==2018.4.16
+chardet==3.0.4
+idna==2.7
+numpy==1.15.0
+pymongo==3.7.1
+pytz==2018.5
+requests==2.19.1
+schedule==0.5.0
+scipy==1.1.0
+urllib3==1.23
